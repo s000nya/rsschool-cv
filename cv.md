@@ -16,7 +16,7 @@ Quality assurance of web based, desktop and mobile applications. Design of diffe
 * Figma
 * Unity
 * Adobe After Effects
-* HTML 5 & CSS 3
+* HTML5 & CSS3
 * Tilda
 
 ### Study
